@@ -1,4 +1,4 @@
-The rainbow and the unicorn and the pony
+The rainbow and the unicorn and the pony and the earth
 
 Purple
 Blue
@@ -8,6 +8,7 @@ Green
 Unicorn
 Grey
 Indigo
+Recycle
 These are the colors of the rainbow.
 
 Pony
