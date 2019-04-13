@@ -7,4 +7,5 @@ Yellow
 Green
 Unicorn
 Grey
+Indigo
 These are the colors of the rainbow.
